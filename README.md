@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=100&lines=Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;AWS+%7C+Azure+%7C+Linux+%F0%9F%90%A7;Docker+%7C+Kubernetes+%7C+Jenkins+%F0%9F%90%B3;Terraform+%7C+CI%2FCD+%7C+Automation+%E2%9A%99%EF%B8%8F;Building+%E2%80%A2+Automating+%E2%80%A2+Deploying+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&repeat=true&width=760&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Azure+%7C+Linux;Docker+%7C+Kubernetes+%7C+Jenkins;Terraform+%7C+CI%2FCD+%7C+Automation;Building+%E2%80%A2+Automating+%E2%80%A2+Deploying" />
 </p>
 
 <p align="center">
@@ -15,11 +15,7 @@
     <img src="https://img.shields.io/badge/GitHub-VINAY--TEJA--GURAJAPU-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=VINAY-TEJA-GURAJAPU&style=for-the-badge&color=blue&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=success&label=Available%20For&query=%24.status&url=https%3A%2F%2Fraw.githubusercontent.com%2Fanuraghazra%2Fanuraghazra%2Fmaster%2Fstatus.json&style=for-the-badge&logo=statuspage&logoColor=white&suffix=%20New%20Opportunities&color=brightgreen"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:0F2027&height=3&section=header" width="60%"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge"/>
 </p>
 
 ---
@@ -29,8 +25,6 @@
 <!-- ========================= -->
 
 ## 👨‍💻 About Me
-
-<img align="right" src="https://raw.githubusercontent.com/EddieHubCommunity/gitfolio/main/svg/scroll-svg/coding.gif" width="320"/>
 
 ```yaml
 vinay:
@@ -43,10 +37,8 @@ vinay:
 ```
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=500&color=58A6FF&center=false&vCenter=true&width=600&lines=%F0%9F%9A%80+Deploying+resilient+cloud+infrastructure...;%F0%9F%94%A7+Automating+everything+that+can+be+automated...;%F0%9F%93%A6+Shipping+containers+%2C+not+just+code...;%F0%9F%93%88+Turning+incidents+into+improvements..."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=500&color=58A6FF&center=false&vCenter=true&width=600&repeat=true&lines=%F0%9F%9A%80+Deploying+resilient+cloud+infrastructure...;%F0%9F%94%A7+Automating+everything+that+can+be+automated...;%F0%9F%93%A6+Shipping+containers%2C+not+just+code...;%F0%9F%93%88+Turning+incidents+into+improvements..."/>
 </p>
-
-<br clear="right"/>
 
 ---
 
@@ -56,33 +48,25 @@ vinay:
 
 ## ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&section=header&text=Cloud%20%26%20Infra&fontSize=24&fontColor=36BCF7&animation=twinkling"/>
-</p>
+**☁️ Cloud & Infra**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,terraform,linux&perline=8" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&section=header&text=DevOps%20%26%20CI%2FCD&fontSize=24&fontColor=36BCF7&animation=twinkling"/>
-</p>
+**🚀 DevOps & CI/CD**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,git,maven,sonarqube,argocd&perline=8" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&section=header&text=Systems%20%26%20Development&fontSize=24&fontColor=36BCF7&animation=twinkling"/>
-</p>
+**💻 Systems & Development**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bash,python,java,vscode&perline=8" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&section=header&text=Monitoring%20%26%20Networking&fontSize=24&fontColor=36BCF7&animation=twinkling"/>
-</p>
+**📊 Monitoring & Networking**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=prometheus,grafana&perline=8" />
@@ -93,13 +77,13 @@ vinay:
 ### 📊 Skill Confidence
 
 <p align="left">
-AWS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://progress-bar.dev/80/?width=250&color=ff9900" /><br/>
-Azure &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://progress-bar.dev/85/?width=250&color=0078d4" /><br/>
-Docker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://progress-bar.dev/85/?width=250&color=2496ed" /><br/>
-Kubernetes &nbsp;&nbsp;<img src="https://progress-bar.dev/70/?width=250&color=326ce5" /><br/>
-Terraform &nbsp;&nbsp;&nbsp;<img src="https://progress-bar.dev/75/?width=250&color=623ce4" /><br/>
-Jenkins / CI-CD <img src="https://progress-bar.dev/80/?width=250&color=d24939" /><br/>
-Linux &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://progress-bar.dev/85/?width=250&color=fcc624" /><br/>
+AWS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://progress-bar.dev/80?width=250&color=ff9900"/><br/>
+Azure&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://progress-bar.dev/85?width=250&color=0078d4"/><br/>
+Docker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://progress-bar.dev/85?width=250&color=2496ed"/><br/>
+Kubernetes&nbsp;<img src="https://progress-bar.dev/70?width=250&color=326ce5"/><br/>
+Terraform&nbsp;&nbsp;<img src="https://progress-bar.dev/75?width=250&color=623ce4"/><br/>
+Jenkins/CI-CD<img src="https://progress-bar.dev/80?width=250&color=d24939"/><br/>
+Linux&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://progress-bar.dev/85?width=250&color=fcc624"/><br/>
 </p>
 
 ---
@@ -109,10 +93,6 @@ Linux &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://progress-bar.d
 <!-- ========================= -->
 
 ## 🌌 My Cloud & DevOps Journey
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Pipeline%20Flow&fontSize=28&fontColor=ffffff&animation=fadeIn&color=0:0F2027,100:36BCF7"/>
-</p>
 
 ```mermaid
 flowchart TD
@@ -149,10 +129,6 @@ flowchart TD
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&section=header&text=Explore%20My%20Work&fontSize=20&fontColor=36BCF7&animation=twinkling"/>
-</p>
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -162,7 +138,7 @@ flowchart TD
 
 End-to-end infrastructure-as-code pipeline provisioning AWS resources and deploying containerized services to EKS.
 
-![](https://progress-bar.dev/100/?width=200&color=2496ed&title=Complete)
+![](https://progress-bar.dev/100?width=200&color=2496ed&title=Complete)
 
 </td>
 <td width="50%" valign="top">
@@ -172,7 +148,7 @@ End-to-end infrastructure-as-code pipeline provisioning AWS resources and deploy
 
 Multi-tier application deployment showcasing service orchestration, scaling, and networking on Kubernetes.
 
-![](https://progress-bar.dev/100/?width=200&color=326ce5&title=Complete)
+![](https://progress-bar.dev/100?width=200&color=326ce5&title=Complete)
 
 </td>
 </tr>
@@ -184,7 +160,7 @@ Multi-tier application deployment showcasing service orchestration, scaling, and
 
 Automated build, code-quality analysis, containerization, and deployment pipeline.
 
-![](https://progress-bar.dev/100/?width=200&color=d24939&title=Complete)
+![](https://progress-bar.dev/100?width=200&color=d24939&title=Complete)
 
 </td>
 <td width="50%" valign="top">
@@ -194,7 +170,7 @@ Automated build, code-quality analysis, containerization, and deployment pipelin
 
 Infrastructure and application monitoring with live dashboards and alerting.
 
-![](https://progress-bar.dev/100/?width=200&color=e6522c&title=Complete)
+![](https://progress-bar.dev/100?width=200&color=e6522c&title=Complete)
 
 </td>
 </tr>
@@ -209,17 +185,9 @@ Infrastructure and application monitoring with live dashboards and alerting.
 ## 🏆 Certification
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&section=header&text=Verified%20Credentials&fontSize=20&fontColor=36BCF7&animation=twinkling"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <br/><br/>
   <strong>AZ-204 — Azure Developer Associate</strong>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VINAY-TEJA-GURAJAPU&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"/>
 </p>
 
 ---
@@ -255,7 +223,7 @@ Infrastructure and application monitoring with live dashboards and alerting.
   </picture>
 </p>
 
-> ⚠️ The snake animation requires a one-time GitHub Actions workflow (`platane/snk`) added to this repo to generate the SVG. Let me know if you want that workflow file too.
+> ⚠️ This image will show broken until a GitHub Actions workflow (`platane/snk`) runs in your repo to actually generate that SVG file. Let me know if you want that workflow added.
 
 <!-- ========================= -->
 <!--      ACTIVITY GRAPH       -->
@@ -276,7 +244,7 @@ Infrastructure and application monitoring with live dashboards and alerting.
 ## 🎯 Current Focus
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=500&color=58A6FF&center=true&vCenter=true&width=650&lines=%F0%9F%94%8D+Actively+applying+for+Cloud+%2F+DevOps+roles;%F0%9F%93%9A+Deepening+Kubernetes+%26+Terraform+expertise;%E2%98%81%EF%B8%8F+Strengthening+multi-cloud+(AWS+%2B+Azure)+skills"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=500&color=58A6FF&center=true&vCenter=true&width=650&repeat=true&lines=%F0%9F%94%8D+Actively+applying+for+Cloud+%2F+DevOps+roles;%F0%9F%93%9A+Deepening+Kubernetes+%26+Terraform+expertise;%E2%98%81%EF%B8%8F+Strengthening+multi-cloud+(AWS+%2B+Azure)+skills"/>
 </p>
 
 <p align="center">
@@ -296,17 +264,13 @@ Infrastructure and application monitoring with live dashboards and alerting.
 ## 🤝 Let's Connect
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&section=header&text=Reach%20Out&fontSize=20&fontColor=36BCF7&animation=twinkling"/>
-</p>
-
-<p align="center">
   <a href="https://github.com/VINAY-TEJA-GURAJAPU">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+great+together+%F0%9F%9A%80"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&repeat=true&lines=Thanks+for+visiting!;Let's+build+something+great+together"/>
 </p>
 
 ---
