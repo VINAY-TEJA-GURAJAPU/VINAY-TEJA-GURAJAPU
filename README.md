@@ -223,7 +223,11 @@ Infrastructure and application monitoring with live dashboards and alerting.
   </picture>
 </p>
 
-> ⚠️ This image will show broken until a GitHub Actions workflow (`platane/snk`) runs in your repo to actually generate that SVG file. Let me know if you want that workflow added.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VINAY-TEJA-GURAJAPU/VINAY-TEJA-GURAJAPU/output/github-contribution-grid-snake.gif" alt="GitHub Contribution Snake GIF" width="90%">
+</p>
+
+> ⚠️ These images will show broken until the `snake.yml` GitHub Actions workflow runs in your repo to actually generate these files (SVG + GIF, in your teal/blue theme colors). See setup steps below.
 
 <!-- ========================= -->
 <!--      ACTIVITY GRAPH       -->
