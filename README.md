@@ -1,6 +1,6 @@
 <!-- ========================================================= -->
 
-<!--              VINAY TEJA • CLOUD COMMAND CENTER            -->
+<!--             VINAY TEJA • CLOUD COMMAND CENTER             -->
 
 <!-- ========================================================= -->
 
@@ -12,19 +12,19 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=900&height=70&lines=INITIALIZING+VINAY+OS...;CLOUD+INFRASTRUCTURE+ONLINE+✓;DEVOPS+AUTOMATION+ONLINE+✓;CI%2FCD+PIPELINE+ONLINE+✓;MONITORING+SYSTEMS+ONLINE+✓;BUILDING+THE+FUTURE+ONE+DEPLOYMENT+AT+A+TIME"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1100&color=38BDF8&center=true&vCenter=true&width=950&height=70&lines=INITIALIZING+VINAY+OS...;CLOUD+INFRASTRUCTURE+ONLINE+✓;DEVOPS+AUTOMATION+ONLINE+✓;CI%2FCD+PIPELINE+ONLINE+✓;MONITORING+SYSTEMS+ONLINE+✓;BUILDING+THE+FUTURE+ONE+DEPLOYMENT+AT+A+TIME"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/CLOUD-AWS%20%7C%20AZURE-38BDF8?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/☁%20CLOUD-AWS%20%7C%20AZURE-38BDF8?style=for-the-badge&labelColor=020617"/>
 
-<img src="https://img.shields.io/badge/DEVOPS-CI%2FCD-818CF8?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/⚙%20DEVOPS-CI%2FCD-818CF8?style=for-the-badge&labelColor=020617"/>
 
-<img src="https://img.shields.io/badge/INFRASTRUCTURE-TERRAFORM-A78BFA?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/🏗%20IaC-TERRAFORM-A78BFA?style=for-the-badge&labelColor=020617"/>
 
-<img src="https://img.shields.io/badge/CONTAINERS-DOCKER-2496ED?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/🐳%20CONTAINERS-DOCKER-2496ED?style=for-the-badge&labelColor=020617"/>
 
 </p>
 
@@ -36,19 +36,17 @@
 
 ---
 
-# ╔══════════════════════════════════════════════════════╗
-
-# ║              👨‍💻  SYSTEM PROFILE                    ║
-
-# ╚══════════════════════════════════════════════════════╝
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=22D3EE&center=true&vCenter=true&width=750&lines=%5B+PROFILE+INITIALIZED+%5D;%3E%3E+LOADING+ENGINEER+PROFILE...;%3E%3E+STATUS%3A+ONLINE+%E2%9C%93"/>
-
-</p>
-
 <div align="center">
+
+# ╔════════════════════════════════════════════╗
+
+# ║ 👨‍💻  ENGINEER PROFILE                    ║
+
+# ╚════════════════════════════════════════════╝
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1300&color=22D3EE&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+PROFILE+%5D;%3E%3E+IDENTITY+VERIFIED;%3E%3E+ENGINEERING+MODE%3A+ACTIVE"/>
+
+<br>
 
 ```text
 ╭────────────────────────────────────────────────────────────╮
@@ -56,20 +54,20 @@
 │   👤  VINAY TEJA GURAJAPU                                  │
 │                                                            │
 │   ┌─ ROLE ──────────────────────────────────────────────┐  │
-│   │ Cloud & DevOps Engineer                             │  │
+│   │  Cloud & DevOps Engineer                            │  │
 │   └─────────────────────────────────────────────────────┘  │
 │                                                            │
-│   ┌─ CORE ──────────────────────────────────────────────┐  │
-│   │ AWS • Azure • Linux • Docker • CI/CD               │  │
-│   │ Terraform • Jenkins • GitHub Actions               │  │
-│   │ Prometheus • Grafana • Git                         │  │
+│   ┌─ SPECIALIZATION ────────────────────────────────────┐  │
+│   │  Cloud Infrastructure • CI/CD • Automation          │  │
+│   │  Linux • Containers • Infrastructure as Code       │  │
+│   │  Monitoring • Production Operations                 │  │
 │   └─────────────────────────────────────────────────────┘  │
 │                                                            │
 │   ┌─ MISSION ───────────────────────────────────────────┐  │
-│   │ Build • Automate • Monitor • Deploy • Scale        │  │
+│   │  BUILD → AUTOMATE → MONITOR → DEPLOY → SCALE       │  │
 │   └─────────────────────────────────────────────────────┘  │
 │                                                            │
-│   STATUS: ● ONLINE       MODE: BUILDING THE FUTURE       │
+│          ● SYSTEM STATUS: ONLINE                         │
 │                                                            │
 ╰────────────────────────────────────────────────────────────╯
 ```
@@ -78,84 +76,82 @@
 
 ---
 
-# ╭──────────────────── ☁️ CLOUD CORE ────────────────────╮
+<div align="center">
 
-<p align="center">
+# ☁️ CLOUD COMMAND CENTER
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AWS+%E2%86%92+AZURE+%E2%86%92+LINUX+%E2%86%92+CONTAINERS+%E2%86%92+AUTOMATION"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=DESIGN+%E2%86%92+AUTOMATE+%E2%86%92+DEPLOY+%E2%86%92+OBSERVE"/>
 
-</p>
-
-<p align="center">
+<br>
 
 ```text
-                         ☁️ CLOUD LAYER
-                              │
-                 ┌────────────┴────────────┐
-                 │                         │
-              ☁ AWS                     ☁ AZURE
-                 │                         │
-                 └────────────┬────────────┘
-                              │
-                              ▼
-                       🐧 LINUX SYSTEMS
-                              │
-                              ▼
+                         ☁️ CLOUD
+                    ┌───────┴───────┐
+                    │               │
+                  AWS             AZURE
+                    │               │
+                    └───────┬───────┘
+                            │
+                            ▼
+                       🐧 LINUX
+                            │
+                            ▼
                          🔗 GIT
-                              │
-                              ▼
+                            │
+                            ▼
                        🐳 DOCKER
-                              │
-                 ┌────────────┴────────────┐
-                 ▼                         ▼
-            ⚙️ JENKINS              ⚡ GITHUB ACTIONS
-                 │                         │
-                 └────────────┬────────────┘
-                              ▼
-                        🏗️ TERRAFORM
-                              │
-                              ▼
-                     📊 OBSERVABILITY
-                              │
-                    PROMETHEUS + GRAFANA
-                              │
-                              ▼
-                         🚀 DELIVERY
+                            │
+                  ┌─────────┴─────────┐
+                  │                   │
+              ⚙️ JENKINS       ⚡ GITHUB ACTIONS
+                  │                   │
+                  └─────────┬─────────┘
+                            │
+                            ▼
+                      🏗️ TERRAFORM
+                            │
+                            ▼
+                    📊 OBSERVABILITY
+                            │
+                  PROMETHEUS + GRAFANA
+                            │
+                            ▼
+                         🚀 DEPLOY
 ```
 
-</p>
+</div>
 
 ---
 
-# ╭────────────────── ⚙️ TECH MATRIX ───────────────────╮
-
 <div align="center">
+
+# 🧬 TECH MATRIX
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=MY+ENGINEERING+STACK;CLOUD+%7C+AUTOMATION+%7C+CONTAINERS+%7C+MONITORING"/>
+
+<br>
 
 ### ☁️ CLOUD
 
-<img src="https://skillicons.dev/icons?i=aws,azure&theme=dark&perline=6"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=800&color=38BDF8&center=true&vCenter=true&width=500&lines=AWS+%7C+AZURE+%7C+CLOUD+INFRASTRUCTURE"/>
+<img src="https://skillicons.dev/icons?i=aws,azure&theme=dark"/>
 
 <br><br>
 
 ### 🐧 SYSTEMS
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,python&theme=dark"/>
 
 <br><br>
 
-### 🐳 DEVOPS
+### ⚙️ DEVOPS & CI/CD
 
-<img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,git,terraform,maven&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,git,terraform,maven&theme=dark"/>
 
 <br><br>
 
-### 🔐 CODE QUALITY + GITOPS
+### 🔐 CODE QUALITY & GITOPS
 
-<img src="https://skillicons.dev/icons?i=sonarqube,argocd,github&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=sonarqube,argocd,github&theme=dark"/>
 
 <br><br>
 
@@ -165,87 +161,99 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=COLLECT+%E2%86%92+ANALYZE+%E2%86%92+VISUALIZE+%E2%86%92+IMPROVE"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=700&color=22D3EE&center=true&vCenter=true&width=700&lines=COLLECT+%E2%86%92+ANALYZE+%E2%86%92+VISUALIZE+%E2%86%92+IMPROVE"/>
 
 </div>
 
 ---
 
-# ╭────────────────── 🚀 PROJECT LAB ───────────────────╮
+# 🚀 PROJECT LAB
 
 <div align="center">
 
 <table>
 <tr>
+
 <td width="50%" align="center">
 
-### ⚙️ CI/CD ENGINE
+## ⚙️ CI/CD ENGINE
 
-<img src="https://img.shields.io/badge/GIT-0F172A?style=for-the-badge&logo=git&logoColor=F05032"/>
-<br>
+<img src="https://img.shields.io/badge/GIT-020617?style=for-the-badge&logo=git&logoColor=F05032"/>
+
 ⬇️
-<br>
-<img src="https://img.shields.io/badge/MAVEN-0F172A?style=for-the-badge&logo=apachemaven&logoColor=C71A36"/>
-<br>
+
+<img src="https://img.shields.io/badge/MAVEN-020617?style=for-the-badge&logo=apachemaven&logoColor=C71A36"/>
+
 ⬇️
-<br>
-<img src="https://img.shields.io/badge/JENKINS-0F172A?style=for-the-badge&logo=jenkins&logoColor=D24939"/>
-<br>
+
+<img src="https://img.shields.io/badge/SONARQUBE-020617?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD"/>
+
 ⬇️
-<br>
-<img src="https://img.shields.io/badge/DOCKER-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+
+<img src="https://img.shields.io/badge/JENKINS-020617?style=for-the-badge&logo=jenkins&logoColor=D24939"/>
+
+⬇️
+
+<img src="https://img.shields.io/badge/DOCKER-020617?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+
+<br><br>
+
+`BUILD → ANALYZE → PACKAGE → CONTAINERIZE → DEPLOY`
 
 </td>
 
 <td width="50%" align="center">
 
-### 🏗️ INFRASTRUCTURE
+## 🏗️ INFRASTRUCTURE ENGINE
 
-<img src="https://img.shields.io/badge/TERRAFORM-0F172A?style=for-the-badge&logo=terraform&logoColor=7B42BC"/>
-<br>
+<img src="https://img.shields.io/badge/TERRAFORM-020617?style=for-the-badge&logo=terraform&logoColor=7B42BC"/>
+
 ⬇️
-<br>
-<img src="https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-<br>
+
+<img src="https://img.shields.io/badge/AWS-020617?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+
 ⬇️
-<br>
-<img src="https://img.shields.io/badge/AUTOMATION-0F172A?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
+
+<img src="https://img.shields.io/badge/INFRASTRUCTURE%20AS%20CODE-020617?style=for-the-badge"/>
+
+<br><br>
+
+`PLAN → PROVISION → AUTOMATE → MANAGE`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" align="center">
 
-### 📊 OBSERVABILITY
+## 📊 OBSERVABILITY ENGINE
 
-<img src="https://img.shields.io/badge/PROMETHEUS-0F172A?style=for-the-badge&logo=prometheus&logoColor=E6522C"/>
-<br>
-+
-<br>
-<img src="https://img.shields.io/badge/GRAFANA-0F172A?style=for-the-badge&logo=grafana&logoColor=F46800"/>
-<br>
-⬇️
-<br>
-**METRICS → DASHBOARDS**
+<img src="https://img.shields.io/badge/PROMETHEUS-020617?style=for-the-badge&logo=prometheus&logoColor=E6522C"/>
+
+*
+
+<img src="https://img.shields.io/badge/GRAFANA-020617?style=for-the-badge&logo=grafana&logoColor=F46800"/>
+
+<br><br>
+
+`METRICS → ALERTS → DASHBOARDS → INSIGHTS`
 
 </td>
 
 <td width="50%" align="center">
 
-### 🐳 CONTAINER LAB
+## 🐳 CONTAINER ENGINE
 
-<img src="https://img.shields.io/badge/DOCKER-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<br>
-⬇️
-<br>
-**IMAGE → CONTAINER**
-<br>
-⬇️
-<br>
-**APPLICATION → DEPLOYMENT**
+<img src="https://img.shields.io/badge/DOCKER-020617?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+
+<br><br>
+
+`CODE → IMAGE → CONTAINER → SERVICE`
 
 </td>
+
 </tr>
 </table>
 
@@ -253,54 +261,51 @@
 
 ---
 
-# ╭────────────────── 🧪 ENGINEERING ───────────────────╮
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1100&color=22D3EE&center=true&vCenter=true&width=850&lines=INFRASTRUCTURE+AS+CODE;CONTINUOUS+INTEGRATION;CONTINUOUS+DELIVERY;CONTAINERIZATION;CLOUD+MONITORING;PRODUCTION+OPERATIONS"/>
-
-</p>
-
 <div align="center">
 
-|         DOMAIN         | CAPABILITIES                                 |
-| :--------------------: | :------------------------------------------- |
-|      ☁️ **Cloud**      | AWS • Azure • Cloud Infrastructure           |
-|     🐧 **Systems**     | Linux • Bash • System Operations             |
-|    🐳 **Containers**   | Docker • Containerized Applications          |
-|      ⚙️ **CI/CD**      | Jenkins • GitHub Actions • Maven             |
-|       🏗️ **IaC**      | Terraform • Infrastructure Automation        |
-|    📊 **Monitoring**   | Prometheus • Grafana                         |
-| 🔧 **Version Control** | Git • GitHub                                 |
-|    🌐 **Networking**   | Cisco • Routing • Switching • NOC Operations |
+# 🌐 NETWORK OPERATIONS
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=CISCO+NETWORKING;PRODUCTION+INFRASTRUCTURE;ROUTING+%26+SWITCHING;CHANGE+MANAGEMENT;PRE-CHECK+%7C+POST-CHECK+%7C+TRAFFIC+VALIDATION"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/CISCO-NETWORKING-0B5CAB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ROUTING-%26-SWITCHING-1E293B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PRODUCTION-INFRASTRUCTURE-334155?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CHANGE-MANAGEMENT-475569?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# ╭────────────────── 🏆 CERTIFICATION ─────────────────╮
+<div align="center">
 
-<p align="center">
+# 🏆 CERTIFICATION
 
 <img src="https://img.shields.io/badge/MICROSOFT%20CERTIFIED-AZURE%20DEVELOPER%20ASSOCIATE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
-</p>
+<br><br>
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1300&color=38BDF8&center=true&vCenter=true&width=650&lines=AZ--204;AZURE+DEVELOPER+ASSOCIATE;CERTIFICATION+VERIFIED+✓"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1400&color=38BDF8&center=true&vCenter=true&width=600&lines=AZ--204;AZURE+DEVELOPER+ASSOCIATE;CERTIFICATION+VERIFIED+✓"/>
-
-</p>
+</div>
 
 ---
 
-# ╭────────────────── 📡 GITHUB TELEMETRY ───────────────╮
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VINAY-TEJA-GURAJAPU&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
+# 📡 GITHUB TELEMETRY
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VINAY-TEJA-GURAJAPU&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=ANALYZING+CODE+ACTIVITY...;LOADING+ENGINEERING+METRICS...;SYSTEM+TELEMETRY+ONLINE+✓"/>
+
+<br>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=VINAY-TEJA-GURAJAPU&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VINAY-TEJA-GURAJAPU&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
@@ -310,55 +315,49 @@
 
 ---
 
-# ╭────────────────── 📈 ACTIVITY STREAM ────────────────╮
+# 📈 ACTIVITY STREAM
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VINAY-TEJA-GURAJAPU&theme=tokyo-night&hide_border=true&area=true&custom_title=VINAY%20TEJA%20%7C%20CONTRIBUTION%20STREAM" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VINAY-TEJA-GURAJAPU&theme=tokyo-night&hide_border=true&area=true&custom_title=VINAY%20TEJA%20%7C%20ENGINEERING%20ACTIVITY" width="95%"/>
 
 </p>
 
 ---
-
-# ╭────────────────── 🐍 CONTRIBUTION ENGINE ────────────╮
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/VINAY-TEJA-GURAJAPU/VINAY-TEJA-GURAJAPU/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=CONTRIBUTIONS+IN+MOTION;KEEP+CODING+%E2%80%A2+KEEP+BUILDING+%E2%80%A2+KEEP+SHIPPING"/>
-
-</p>
-
----
-
-# ╭────────────────── 🎯 CURRENT MISSION ────────────────╮
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=MASTERING+CLOUD+ENGINEERING;BUILDING+RELIABLE+CI%2FCD;AUTOMATING+INFRASTRUCTURE;IMPROVING+OBSERVABILITY;BECOMING+A+STRONGER+DEVOPS+ENGINEER"/>
+# 🎯 CURRENT MISSION
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=950&color=38BDF8&center=true&vCenter=true&width=850&lines=MASTER+CLOUD+ENGINEERING;BUILD+RELIABLE+CI%2FCD;AUTOMATE+INFRASTRUCTURE;IMPROVE+OBSERVABILITY;GROW+AS+A+DEVOPS+ENGINEER"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/☁%20CLOUD-AWS%20%7C%20AZURE-38BDF8?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/☁%20AWS%20%7C%20AZURE-38BDF8?style=for-the-badge&labelColor=020617"/>
 
-<img src="https://img.shields.io/badge/⚙%20AUTOMATION-TERRAFORM-A78BFA?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/⚙%20DEVOPS-CI%2FCD-818CF8?style=for-the-badge&labelColor=020617"/>
 
-<img src="https://img.shields.io/badge/🚀%20DELIVERY-CI%2FCD-818CF8?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/🏗%20IaC-TERRAFORM-A78BFA?style=for-the-badge&labelColor=020617"/>
 
-<img src="https://img.shields.io/badge/📊%20OBSERVABILITY-PROMETHEUS%20%7C%20GRAFANA-22D3EE?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/📊%20MONITORING-PROMETHEUS%20%7C%20GRAFANA-22D3EE?style=for-the-badge&labelColor=020617"/>
 
 </div>
 
 ---
 
-# ╭────────────────── 🌐 CONNECT ───────────────────────╮
+<div align="center">
 
-<p align="center">
+# 🧠 ENGINEERING PHILOSOPHY
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=00F260&center=true&vCenter=true&width=850&lines=AUTOMATE+WHAT+CAN+BE+AUTOMATED.;MONITOR+WHAT+YOU+BUILD.;SIMPLIFY+WHAT+YOU+CAN.;KEEP+LEARNING.+KEEP+BUILDING.+KEEP+SHIPPING."/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌐 CONNECT
 
 <a href="https://github.com/VINAY-TEJA-GURAJAPU">
 
@@ -366,30 +365,30 @@
 
 </a>
 
-</p>
+</div>
 
----
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1200&color=00F260&center=true&vCenter=true&width=800&lines=SYSTEM+STATUS%3A+ONLINE;PIPELINE+STATUS%3A+READY;MISSION%3A+KEEP+BUILDING;NEXT+DEPLOYMENT%3A+LOADING..."/>
-
-</p>
+<br>
 
 <p align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:312e81,35:0e7490,70:0f172a,100:020617&animation=fadeIn"/>
+<img src="https://komarev.com/ghpvc/?username=VINAY-TEJA-GURAJAPU&color=00F260&style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:312e81,35:0e7490,70:0f172a,100:020617&animation=fadeIn"/>
 
 </p>
 
 <h3 align="center">
 
-☁️ BUILD • ⚙️ AUTOMATE • 🐳 CONTAINERIZE • 📊 MONITOR • 🚀 DEPLOY
+☁️ BUILD  •  ⚙️ AUTOMATE  •  🐳 CONTAINERIZE  •  📊 MONITOR  •  🚀 DEPLOY
 
 </h3>
 
 <p align="center">
 
-<strong>Thanks for visiting my GitHub command center.</strong>
+<strong>⚡ SYSTEM STATUS: ONLINE • MISSION STATUS: BUILDING ⚡</strong>
 
 </p>
