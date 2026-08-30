@@ -3,11 +3,21 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=VINAY%20TEJA%20GURAJAPU&fontSize=42&fontColor=05D9E8&animation=fadeIn&fontAlignY=35&desc=NOC%20Engineer%20%7C%20Network%20Operations%20%7C%20Cloud%20%26%20Automation&descAlignY=55&descSize=17&descColor=FF2079&color=0:0F0C29,50:302B63,100:24243E" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&animation=fadeIn&color=0:0F0C29,50:302B63,100:24243E" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF2079&center=true&vCenter=true&repeat=true&width=760&lines=%3E+monitoring_network_status...+ONLINE;%3E+incident_response...+READY;%3E+cloud_%2B_devops_automation...+ACTIVE;%3E+uptime%3A+99.9%25+%7C+alerts%3A+0" />
+  <img src="https://img.shields.io/badge/VINAY%20TEJA%20GURAJAPU-05D9E8?style=for-the-badge&labelColor=0F0C29" height="55"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NOC%20ENGINEER-FF2079?style=for-the-badge&labelColor=0F0C29"/>
+  <img src="https://img.shields.io/badge/Network%20Operations-05D9E8?style=for-the-badge&labelColor=0F0C29"/>
+  <img src="https://img.shields.io/badge/Cloud%20%26%20Automation-39FF14?style=for-the-badge&labelColor=0F0C29"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=FF2079&center=true&vCenter=true&repeat=true&width=900&height=40&lines=%3E+network_status...+ONLINE;%3E+incident_response...+READY;%3E+cloud_%2Bdevops_automation...+ACTIVE;%3E+uptime%3A+99.9%25" />
 </p>
 
 <p align="center">
@@ -230,8 +240,6 @@ Infrastructure and application monitoring with live dashboards and alerting.
 <p align="center">
   <img src="https://raw.githubusercontent.com/VINAY-TEJA-GURAJAPU/VINAY-TEJA-GURAJAPU/output/github-contribution-grid-snake.gif" alt="GitHub Contribution Snake GIF" width="90%">
 </p>
-
-> ⚠️ These will show broken until the `snake.yml` GitHub Actions workflow runs once in your repo. That's the only extra file needed — everything else on this page is a live remote widget, nothing else to upload.
 
 <!-- ========================= -->
 <!--      ACTIVITY GRAPH       -->
